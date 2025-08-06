@@ -3,8 +3,8 @@
 A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
 Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
 
-# Plugins
+## Plugins
 
 ```console
-brew install fzf fd luarocks ripgrep font-jetbrains-mono-nerd-font
+brew bundle
 ```
